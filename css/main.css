@@ -1,0 +1,144 @@
+body {
+ padding-left:10px;
+  padding-right:10px;
+  background-color:lightgray;
+}
+
+#Alex_img {
+  padding-left: 70px;
+  padding-bottom: 40px;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+#p2 {
+  padding-left:20px;
+  font-family: Times, "Times New Roman", Georgia, serif;
+  margin-top: 100px;
+}
+
+
+
+#div1 {
+  color:blue;
+}
+
+
+.titulo_resume{
+ text-align: center;
+  font-family: Times, "Times New Roman", Georgia, serif;}
+
+#information_text {
+  text-align: center;
+  font-family: Times, "Times New Roman", Georgia, serif;
+  padding-bottom:40px;
+
+}
+
+
+h1 {
+  text-align:center;
+  padding-bottom:0px;
+}
+.informacion {
+  text-align:center;
+
+}
+
+h4, hr {
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.school_name {
+  margin-left:50px;
+
+}
+.puntos_negros {
+  margin-left:70px
+}
+
+.date {
+  text-align:center;
+  margin-left:60px;
+  margin-bottom:20px;
+}
+
+.date2 {
+  padding-left:230px;
+  text-align:center;
+}
+
+
+.cosas_favoritas {
+  font-family: Times, "Times New Roman", Georgia, serif;
+  text-align: center;
+}
+
+.list  {
+   padding-left:  870px;
+}
+
+.autor {
+  padding-left:20px;
+  text-align: center;
+  background-color:darkgray;
+  padding-bottom: 10px;
+  padding-top: 10px;
+
+}
+
+.bottom_div   {
+        background-color:darkgray;
+        text-align: center;
+
+}
+
+#resume {
+     margin-left: 90px;
+     margin-right:90px;
+}
+
+.resume_titles  {
+        padding-top:50px;
+
+}
+
+#titulo_de_certificado {
+  font-family: Times, "Times New Roman", Georgia, serif;}
+
+#title_b {
+  font-family: Times, "Times New Roman", Georgia, serif;}
+
+#sobre_mi{
+      text-align: center;
+      padding-left:90px;
+      padding-right: 90px;
+      font-family: Times, "Times New Roman", Georgia, serif;
+
+}
+
+.flex-container {
+  margin: 30px;
+  height: 100px;
+  display: flex;
+  justify-content: space-between; /* align item horizontally */
+  align-items: center; /* align item vertically */
+}
+
+
+#p3 {
+  text-align: center;
+  font-family: Times, "Times New Roman", Georgia, serif;
+
+}
+
+
+
